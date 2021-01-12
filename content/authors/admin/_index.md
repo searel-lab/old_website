@@ -46,7 +46,7 @@ social:
   link: https://orcid.org/0000-0002-0148-8680
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.in/citations?user=aJ-3QSIAAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Anand_Singh3
