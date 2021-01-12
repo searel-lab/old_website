@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. Anand Narain Singh
+title: Abhishek Kumar
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -24,14 +24,14 @@ interests:
 education:
   courses:
   - course: PhD in Botany (Plant Ecology)
-    institution: [Banaras Hindu University, Varanasi](https://bhu.ac.in/)
-    year: 1999
-  - course: MSc in Botany (Plant Pathology)
-    institution: [Veer Bahadur Singh Purvanchal University, Jaunpur](https://vbspu.ac.in/)
-    year: 1991
+    institution: [Panjab University, Chandigarh](https://puchd.ac.in/)
+    year: Present
+  - course: MSc in Botany
+    institution: [Panjab University, Chandigarh](https://puchd.ac.in/)
+    year: 2017
   - course: BSc in Medical Science
-    institution: [Veer Bahadur Singh Purvanchal University, Jaunpur](https://vbspu.ac.in/)
-    year: 1989
+    institution: [Kurukshetra University, Kurukshetra](https://kuk.ac.in/)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dranand1212@gmail.com'
+  link: 'mailto:abhikumar.pu@gmail.com'
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-0148-8680
+  link: https://orcid.org/0000-0003-2252-7623
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.in/citations?user=aJ-3QSIAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Anand_Singh3
+  link: https://www.researchgate.net/profile/Abhishek_Kumar461
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Researchers
 ---
 
-Dr. Anand Narain Singh, our experienced Research Supervisor, is a fundamental part of what makes SEAREL Lab such a successful research lab in the fields of Plant Ecology and Restoration Ecology. Currently, Dr. Singh holds the position of Assistant Professor at the Department of Botany, Panjab University, Chandigarh. His research interests include plant ecology, restoration ecology and soil ecology. He leads the SEAREL research group, which studies the responses of ecosystem structure and functions to climate change and other human-mediated activities.
+The reputation of Abhishek Kumar came to us with an impressive background. He has since become a valued SRF on our team, adding important insights into our work. After completing post-graduation from the Department of Botany, Panjab University, Chandigarh, he joined us in 2017. His research interests include the responses of ecological structure and functions to climate change, and he is currently working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
