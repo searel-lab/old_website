@@ -24,13 +24,13 @@ interests:
 education:
   courses:
   - course: PhD in Botany (Plant Ecology)
-    institution: [Banaras Hindu University, Varanasi](https://bhu.ac.in/)
+    institution: Banaras Hindu University, Varanasi
     year: 1999
   - course: MSc in Botany (Plant Pathology)
-    institution: [Veer Bahadur Singh Purvanchal University, Jaunpur](https://vbspu.ac.in/)
+    institution: Veer Bahadur Singh Purvanchal University, Jaunpur
     year: 1991
   - course: BSc in Medical Science
-    institution: [Veer Bahadur Singh Purvanchal University, Jaunpur](https://vbspu.ac.in/)
+    institution: Veer Bahadur Singh Purvanchal University, Jaunpur
     year: 1989
 
 # Social/Academic Networking
