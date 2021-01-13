@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Fellow
+role: DST Women Scientist-B
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests plant ecology, environmental pollution and human health. She has been also awarded as a DST-Women Scientist.
+Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests plant ecology, environmental pollution and human health. She has been also awarded with DST Women Scientist-B project.
