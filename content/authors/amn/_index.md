@@ -1,41 +1,41 @@
 ---
 # Display name
-title: 吳恩達
+title: Amandeep Kaur
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- amn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Panjab University, Chandigarh
+  url: "https://puchd.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant ecology, agroecology and weed-crop interactions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant Ecology
+- Agroecology
+- Weed-Crop Interactions
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Botany
+    institution: Panjab University, Chandigarh
+    year: Present
+  - course: MSc in Botany
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 20xx
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 20xx
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'amandeepkaur1854@gmail.com'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.co.in/
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Amandeep_Kaur87
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Amandeep Kaur is one of the most senior members of our group. Her research interests focus the species interaction and weed-crop interactions in the agroecosystem. She has intensively explored the interactions of wheat crop with common weeds using functional traits.
