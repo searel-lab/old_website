@@ -24,13 +24,13 @@ interests:
 education:
   courses:
   - course: PhD in Botany (Plant Ecology)
-    institution: [Panjab University, Chandigarh](https://puchd.ac.in/)
+    institution: Panjab University, Chandigarh
     year: Present
   - course: MSc in Botany
-    institution: [Panjab University, Chandigarh](https://puchd.ac.in/)
+    institution: Panjab University, Chandigarh
     year: 2017
   - course: BSc in Medical Science
-    institution: [Kurukshetra University, Kurukshetra](https://kuk.ac.in/)
+    institution: Kurukshetra University, Kurukshetra
     year: 2015
 
 # Social/Academic Networking
@@ -68,4 +68,4 @@ user_groups:
 - Researchers
 ---
 
-The reputation of Abhishek Kumar came to us with an impressive background. He has since become a valued SRF on our team, adding important insights into our work. After completing post-graduation from the Department of Botany, Panjab University, Chandigarh, he joined us in 2017. His research interests include the responses of ecological structure and functions to climate change, and he is currently working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
+Abhishek Kumar, a senior research fellow, came to us with an impressive background. He has since become a valued member on our team, adding important insights into our work. After completing post-graduation from the Department of Botany, Panjab University, Chandigarh, he joined us in 2017. His research interests include the responses of ecological structure and functions to climate change, and he is currently working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
