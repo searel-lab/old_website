@@ -21,7 +21,4 @@ content:
 design:
   view: 3
   columns: "1"
-header:
-  caption: ""
-  image: "image.jpg"
 ---
