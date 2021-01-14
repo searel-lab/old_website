@@ -6,7 +6,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 title: About
 subtitle: ''
@@ -15,9 +15,9 @@ background:
   # Name of image in `static/media/`.
   image: image.jpg
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_darken: 0
+  image_darken: 0.5
   #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_size: cover
+  image_size: cover
   # Options include `left`, `center` (default), or `right`.
   image_position: center
   # Use a fun parallax-like fixed background effect? true/false
