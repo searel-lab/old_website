@@ -6,7 +6,6 @@ authors:
 - pk
 - rcb
 - rk
-- nks
 - ans
 author_notes:
 date: "2021-01-01"
