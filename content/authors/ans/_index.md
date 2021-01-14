@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Anand Narain Singh
+title: Anand Narain Singh
 
 # Is this the primary user of the site?
 superuser: false
