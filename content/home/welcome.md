@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The SEAREL Research Group has been a center of excellence for plant ecology research, teaching, and practice since its founding in 2017.
+The Soil Ecosystem and Restoration Ecology Lab (SEAREL) Research Group has been a center of excellence for plant ecology research, teaching, and practice since its founding in 2017.
