@@ -6,7 +6,7 @@ authors:
 - pk
 - rcb
 - rk
-- Nitin Kumar Sharma
+- nks
 - ans
 author_notes:
 date: "2021-01-01"
