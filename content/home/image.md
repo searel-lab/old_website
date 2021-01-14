@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 15
 
 title:
 subtitle:
@@ -20,7 +20,7 @@ design:
   background:
     image: image.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
