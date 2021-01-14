@@ -6,11 +6,11 @@ authors:
 - amn
 - ans
 author_notes: ""
-date: "2021-01"
+date: "2021-01-14"
 doi: "10.12691/aees-9-2-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2021"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
