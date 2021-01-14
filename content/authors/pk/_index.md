@@ -23,7 +23,7 @@ bio: My research interests include plant ecology, forest ecology and carbon dyna
 interests:
 - Plant Ecology
 - Forest Ecology
-- Carbon Cyclin
+- Carbon Cycling
 
 education:
   courses:
