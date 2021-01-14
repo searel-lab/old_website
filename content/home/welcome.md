@@ -12,6 +12,8 @@ hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+design.background:
+  color: "navy"
 advanced:
   css_style:
   css_class:
