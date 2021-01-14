@@ -16,14 +16,14 @@ title: "About"
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: image.jpg
-    image_darken: 0
+    image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
