@@ -10,7 +10,7 @@ date: "2021-01"
 doi: "10.12691/aees-9-2-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-14T12:24:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
