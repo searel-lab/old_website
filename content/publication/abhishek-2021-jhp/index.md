@@ -9,7 +9,7 @@ authors:
 - nks
 - ans
 author_notes: ""
-date: "2021-01-19"
+date: "2021-01-01"
 doi: "10.34172/jhp.2021.03"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2021-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Herbmed Pharmacology, 9*(2), 31-50."
+publication: "*Journal of Herbmed Pharmacology, 9*(2), 31-50"
 publication_short: ""
 
 abstract: Kamala tree (Mallotus philippensis) is traditionally used by different ethnic groups to treat a variety of diseases and health ailments. However, these traditional uses need to be scientifically investigated and validated in order to develop drugs from this tree. Therefore, the present article is aimed to review the scientifically validated knowledge on the pharmacology and phytochemistry of the tree. To accomplish this, we extensively surveyed the available databases like Scopus, Web of Science, Google Scholar, ScienceDirect, NCBI including PubMed and PubChem, etc. by using keywords ‘Mallotus philippensis’, ‘Mallotus phillippinensis’ and ‘Mallotus philippinensis’. Our results indicated that the tree possesses more than 50 different types of important phytochemicals of natural origin. The wide array of phytochemicals possesses fascinating biological activities like anthelmintic, antibacterial, anti-inflammatory, anti-oxidant, anti-cancerous, anti-tuberculosis, anti-parasitic, analgesic, anti-urolithiatic and anti-viral activities. Thus, pharmacological activities and isolation of active phytochemicals make the tree a promising candidate for drug discovery. However, pharmacological activities such as antibacterial and anti-oxidant activities are often tested with crude extracts and in vitro rudimentary methods that can be sometimes misleading and non-specific. Thus, more sophisticated techniques may be applied for the isolation of active chemicals and elucidating their mechanism of actions.
