@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Rupinder Kaur
+title: Rupinder Kaur
 
 # Username (this should match the folder name)
 authors:
