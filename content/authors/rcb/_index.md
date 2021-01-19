@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Ram Chand Bhatti
+title: Ram Chand Bhatti
 
 # Username (this should match the folder name)
 authors:
@@ -31,11 +31,11 @@ education:
     institution: Panjab University, Chandigarh
     year: 2020
   - course: MSc in Botany
-    institution: Panjab University, Chandigarh
+    institution: University Name, City
     year: 20xx
   - course: BSc in Botany
     institution: University Name, City
-    year: 20xx
+    year: 19xx
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
