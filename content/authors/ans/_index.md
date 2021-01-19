@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Dr. Anand Narain Singh, our experienced Research Supervisor, is a fundamental part of what makes SEAREL Lab such a successful research lab in the fields of Plant Ecology and Restoration Ecology. Currently, Dr. Singh holds the position of Assistant Professor at the Department of Botany, Panjab University, Chandigarh. His research interests include plant ecology, restoration ecology and soil ecology. He leads the SEAREL research group, which studies the responses of ecosystem structure and functions to climate change and other human-mediated activities.
