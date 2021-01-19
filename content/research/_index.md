@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Current Research Themes
 
 # View.
 #   1 = List
