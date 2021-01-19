@@ -19,7 +19,7 @@ publishDate: "2021-01-12"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Ecology and Environmental Sciences, 9*(2)"
+publication: "*Applied Ecology and Environmental Sciences, 9*(2), 156-166"
 publication_short: ""
 
 abstract: The use of wastewater for irrigation is a valuable strategy to maximize available water resources, but the fringe quality of the water can present innumerable challenges. Water scarcity pushes the farmers to use wastewater for irrigation as an available alternate source. The present study was conducted in the peri-urban areas of well-planned city Chandigarh with a primary objective to obtain information about the current status of wastewater use for irrigation and socio-economic reasons for using wastewater from the farmers’ perspective. Therefore, nineteen (19) villages were selected nearby four seasonal choes around the study sites. At the site, we found that 64% of farmers were using freshwater, and the remaining farmers were using wastewater for crop irrigation. In this study, two contrasting perceptions were observed among the farmers about wastewater irrigation. Results indicated that farmers have a piece of relatively good knowledge about the inappropriate quality of wastewater and its adverse effects. Although they were concerned about the health, environmental and social impacts of wastewater yet, they believed that using this water resource is economically profitable for them. Thus, the present study highlighted the need for planning to improve wastewater treatment along with appropriate policies and methods to enhance farmers’ commitment to environmental conservation and human health.
@@ -68,4 +68,4 @@ slides:
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
