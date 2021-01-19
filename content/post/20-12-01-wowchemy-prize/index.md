@@ -1,5 +1,5 @@
 ---
-title: Abhishek Kumar Wins Third Place in the National Conference on Climate Change: Agriculture, Biodiversity and Human Health
+title: Abhishek Kumar Wins Third Place in the National Conference on Climate Change- Agriculture, Biodiversity and Human Health
 date: 2020-25-01
 ---
 
