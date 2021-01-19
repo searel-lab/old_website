@@ -6,7 +6,7 @@ title: Anand Narain Singh
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Botany
 
 # Organizations/Affiliations
 organizations:
