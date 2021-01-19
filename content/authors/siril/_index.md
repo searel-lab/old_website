@@ -30,11 +30,11 @@ education:
   - course: PhD in Botany
     institution: Panjab University, Chandigarh
     year: Present
-  - course: MSc in Botany
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Biotechnology
+    institution: Jiwaji University, Gwalior
     year: 20xx
-  - course: BSc in Medical Science
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Biotechnology
+    institution: JNVU, Jodhpur
     year: 20xx
 
 # Social/Academic Networking
