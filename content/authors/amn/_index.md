@@ -52,7 +52,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.co.in/
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Amandeep_Kaur87
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
