@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Pardeep Kumar is truly an important member of our laborious team. He did his post-graduation from Panjab University, Chandigarh, and joined us in 2018. His primary interests are floristic explorations, ecosystem ecology, and biodiversity conservation. As a part of his PhD, he is working on ecological assessment and carbon sequestration potential of grass flora of the lower Siwalik region.
+Pardeep Kumar is truly an important member of our laborious team. He did his post-graduation from Panjab University, Chandigarh, and joined us in 2018. His primary interests are floristic explorations, ecosystem ecology, and biodiversity conservation. As a part of his PhD, he is working on ecological assessment and carbon sequestration potential of forest ecosystems of Siwalik region.
