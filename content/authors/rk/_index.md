@@ -70,3 +70,5 @@ user_groups:
 ---
 
 Dr. Rupinder Kaur is our most experienced member as she joined us very recently in 20xx. She holds a PhD degree in Botany from Panjab University, Chandigarh. Her primary research interests include soil ecology and soil enzymes.
+
+*Thesis Title:* Ecological aspect of soil extracellular enzymatic activities and their role in soil carbon sequestration under contrasting habitats
