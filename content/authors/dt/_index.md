@@ -71,4 +71,4 @@ user_groups:
 
 Diksha Tokas has completed her MSc in Botany (Honors) from Panjab University, Chandigarh, and joined the lab in 2019. Her basic interests include plant exploration and crop-weed ecology. Currently, she is working on agroecosystem dynamics and alterations in response to pesticides.
 
-*Research Title:* Evaluation of soil multifunctionality in the agro-ecosystems by using plant functional traits under biochar treatments
+Research Title: *Evaluation of soil multifunctionality in the agro-ecosystems by using plant functional traits under biochar treatments*
