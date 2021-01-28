@@ -73,4 +73,4 @@ Sheenu Sharma is a recent addition to the team as she joined us very recently in
 
 **Research Title:** Identification and assessment of multifunctionality approaches in the urban ecosystem for their services in a changing environment
 
-**Research Area:** Urban ecology, Ecosystem multifunctionality; Ecosystem services
+**Research Area:** Urban ecology; Ecosystem multifunctionality; Ecosystem services
