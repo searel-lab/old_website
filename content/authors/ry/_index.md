@@ -72,4 +72,4 @@ user_groups:
 
 Rajni Yadav joined us in 2019 after completing her post-graduation from the Department of Botany, Panjab University. She is particularly interested in statistical ecology and ecological modeling. Currently, she is working on the roles of pesticides in the lower Siwalik agroecosystems.
 
-*Research Title:* Exploration and characterisation of soil contaminants via pesticides in the agroecosystems of urban and sub-urban areas of Chandigarh: An ecological perspective
+Research Title: *Exploration and characterisation of soil contaminants via pesticides in the agroecosystems of urban and sub-urban areas of Chandigarh: An ecological perspective*
