@@ -23,6 +23,7 @@ bio: My research interests include plant ecology, agroecology and soil pollution
 interests:
 - Plant Ecology
 - Agroecology
+- Urban Ecology
 - Soil Contamination
 
 education:
