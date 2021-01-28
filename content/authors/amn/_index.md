@@ -70,3 +70,5 @@ user_groups:
 ---
 
 Amandeep Kaur is one of the most senior members of our group. Her research interests focus the species interaction and weed-crop interactions in the agroecosystem. She has intensively explored the interactions of wheat crop with common weeds using functional traits.
+
+Thesis Title: *Whole-plant and regenerative traits of selected Wheat crop weeds (Avena sativa L. and Phalaris minor Retz.) in response to water and fertilizer treatments: An Ecological assessment*
