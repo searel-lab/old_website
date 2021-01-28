@@ -71,4 +71,4 @@ user_groups:
 
 Sabir Hussain graduated from Govt. Degree College, Kargil and completed his post-graduation in Botany from Hemwati Nandan Bahuguna Garhwal University, Srinagar, Uttarakhand. He is truly an invaluable member of our hardworking team since 2019. His interests primarily include ecosystem ecology and currently, assessing the ecosystem services and multi-functionality of Kargil region.
 
-*Research Title:* Identification and evaluation of multifunctionality in the selected ecosystems of Kargil, Ladakh
+**Research Title:** *Identification and evaluation of multifunctionality in the selected ecosystems of Kargil, Ladakh*
