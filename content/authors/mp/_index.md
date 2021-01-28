@@ -70,3 +70,5 @@ user_groups:
 ---
 
 Meenu Patil has an incredible dedication to the research work. She has already made invaluable contributions to our research goals. After completing her MSc in Botany (Hons) from Panjab University, Chandigarh, she has joined us in 2018. Her research interests focus the nutrient cycling in tropical forests and currently she is investigating the role of phosphorus and mycorrhiza in litter decomposability traits of the Indian Siwaliks.
+
+Research Title: 
