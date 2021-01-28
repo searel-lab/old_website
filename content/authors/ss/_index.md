@@ -70,3 +70,6 @@ user_groups:
 ---
 
 Sheenu Sharma is a recent addition to the team as she joined us very recently in 2019. She holds a Master's degree in Botany from Kurukshetra University, Kurukshetra. Her primary research interests include ecosystem ecology of the urban environments.
+
+**Research Title:** Identification and assessment of multifunctionality approaches in the urban ecosystem for their services in a changing environment
+**Research Area:** Urban ecology, Ecosystem multifunctionality; Ecosystem services
