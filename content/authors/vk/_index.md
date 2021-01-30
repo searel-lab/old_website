@@ -70,3 +70,5 @@ user_groups:
 ---
 
 Viney Kumar is a senior research fellow at the SEAREL Lab. His research interests plant ecology, environmental pollution and heavy metal contamination. He is also an Assistant Professor of Botany at Government College, Panchkula.
+
+Thesis Title: *Ecological assessment of geochemical accumulation and distribution pattern of heavy metals in urban soils of Chandigarh and Baddi areas in Lower Shiwalik Region: Impact of urban and Industrial activities*
