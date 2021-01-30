@@ -71,4 +71,4 @@ user_groups:
 
 Pardeep Kumar is truly an important member of our laborious team. He did his post-graduation from Panjab University, Chandigarh, and joined us in 2018. His primary interests are floristic explorations, ecosystem ecology, and biodiversity conservation. As a part of his PhD, he is working on ecological assessment and carbon sequestration potential of forest ecosystems of Siwalik region.
 
--Research Title: *Carbon dynamics under selected forest ecosystems in the Siwaliks of north-western India*
+Research Title: *Carbon dynamics under selected forest ecosystems in the Siwaliks of north-western India*
