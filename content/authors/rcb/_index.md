@@ -70,3 +70,4 @@ user_groups:
 ---
 
 Dr. Ram Chand Bhatti is our experienced member as she joined us in 20xx. He holds a PhD degree in Botany from Panjab University, Chandigarh. His primary research interests include ethnobotany, ethnoecology and ethnomedicines.
+Thesis Title: *Ethno-ecological Survey and Nutrient Component Analyses of Underutilized Plants of Hamirpur District, Himachal Pradesh*
