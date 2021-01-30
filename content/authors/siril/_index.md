@@ -70,3 +70,5 @@ user_groups:
 ---
 
 Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests plant ecology, environmental pollution and human health. She has been also awarded with DST Women Scientist-B project.
+
+Research Title: *Ecological assessment of heavy metal contamination through wastewater irrigation in vegetable crop cultivation and their possible impact on human health: A food chain analysis*
