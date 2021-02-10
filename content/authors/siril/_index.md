@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include plant ecology, agroecology and water pollution.
 
 interests:
-- Plant Ecology
+- Health Risk Assessment
 - Agroecology
 - Water Pollution
 
 education:
   courses:
-  - course: PhD in Botany
+  - course: PhD in Environmenal Sciences
     institution: Panjab University, Chandigarh
     year: Present
   - course: MSc in Biotechnology
     institution: Jiwaji University, Gwalior
-    year: 20xx
+    year: 2009
   - course: BSc in Biotechnology
     institution: JNVU, Jodhpur
-    year: 20xx
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
