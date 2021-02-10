@@ -69,6 +69,6 @@ user_groups:
 - Researchers
 ---
 
-Siril Singh is a Researcher and Principal investigator of DST WOS-B Project funded by Department of Science and Technology (DST), Ministry of Science and Technology, Government of India, under Women Scientish scheme-B, KIRAN Division at the SEAREL Lab. Her research interests include, Heavy metal contamination, Health risk assessment and environmental pollution. she is investigating the possible human health risks posed by heavy metals due to consumption of wastewater irrigated vegetables in suburban areas of Chandigarh.
+Siril Singh is a Researcher and Principal investigator of Project funded by Department of Science and Technology (DST), Ministry of Science and Technology, Government of India, under Women Scientist Scheme-B, KIRAN Division at the SEAREL Lab. Her research interests include, Heavy metal contamination, Health risk assessment and environmental pollution. she is investigating the possible human health risks posed by heavy metals due to consumption of wastewater irrigated vegetables in suburban areas of Chandigarh.
 
 Research Title: *Assessment of heavy metal contamination through wastewater irrigation in vegetable crops and their possible impact on human health*
