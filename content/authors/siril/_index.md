@@ -18,7 +18,7 @@ organizations:
   url: "https://puchd.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Heavy metal contamination, agroecology and water pollution.
+bio: My research interests include Heavy metal contamination, human health risk assessment, agroecology and water pollution.
 
 interests:
 - Health Risk Assessment
