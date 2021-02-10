@@ -23,7 +23,7 @@ bio: My research interests include Heavy metal contamination, human health risk 
 interests:
 - Health Risk Assessment
 - Agroecology
-- Water Pollution
+- Soil and Water Pollution
 
 education:
   courses:
