@@ -18,7 +18,7 @@ organizations:
   url: "https://puchd.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include plant ecology, agroecology and water pollution.
+bio: My research interests include Heavy metal contamination, agroecology and water pollution.
 
 interests:
 - Health Risk Assessment
@@ -69,6 +69,6 @@ user_groups:
 - Researchers
 ---
 
-Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests plant ecology, environmental pollution and human health. She has been also awarded with DST Women Scientist-B project.
+Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests Heavy metal contamination, Health risk assessment and environmental pollution. She has been also awarded by Department of Science and Technology (DST), Ministry of Science and Technology, GoI under KIRAN DIVISION, Women Scientist-B Scheme.
 
 Research Title: *Assessment of heavy metal contamination through wastewater irrigation in vegetable crops and their possible impact on human health*
