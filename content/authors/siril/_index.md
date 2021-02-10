@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Environmenal Sciences
+  - course: PhD in Environmental Sciences
     institution: Panjab University, Chandigarh
     year: Present
   - course: MSc in Biotechnology
@@ -69,6 +69,6 @@ user_groups:
 - Researchers
 ---
 
-Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests Heavy metal contamination, Health risk assessment and environmental pollution. She has been also awarded by Department of Science and Technology (DST), Ministry of Science and Technology, GoI under KIRAN DIVISION, Women Scientist-B Scheme.
+Siril Singh is a senior research fellow at the SEAREL Lab. Her research interests include, Heavy metal contamination, Health risk assessment and environmental pollution. She has been also awarded a research project by Department of Science and Technology (DST), Ministry of Science and Technology, Government of India, under KIRAN Division, Women Scientist-B Scheme.
 
 Research Title: *Assessment of heavy metal contamination through wastewater irrigation in vegetable crops and their possible impact on human health*
