@@ -46,4 +46,7 @@ design:
   # text_color_light: true
 ---
 
-Our Lab has a broad interest in plant ecology ranging from ecosystem ecology to community ecology including biodiversity and conservation. We are particularly interested in how current rates of climate change will affect the ecosystem structure (plant distribution and diversity) and functioning (especially cycling of nutrients like carbon, nitrogen, phosphorus). We study diverse ecosystem types (agroecosystems, forest ecosystems and urban ecosystems) in the Siwalik landscape (Himalayan foothills) of Northwest India.
+Our Lab has a broad interest in plant ecology ranging from ecosystem ecology to community ecology including biodiversity and conservation. We are particularly interested in 
+
+* how current rates of climate change will affect the ecosystem structure (plant distribution and diversity) and functioning (especially cycling of nutrients like carbon, nitrogen, phosphorus). 
+* We study diverse ecosystem types (agroecosystems, forest ecosystems and urban ecosystems) in the Siwalik landscape (Himalayan foothills) of Northwest India.
